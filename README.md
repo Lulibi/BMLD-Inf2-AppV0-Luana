@@ -2,8 +2,9 @@
 
 Das leere Gerüst um eine App aufzubauen.
 
-## Autor
+## Autor    
 
+Jasleen Bal (baljas01@students.zhaw.ch)
 Luana Birtone (birtolua@students.zhaw.ch)
 
 
